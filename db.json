@@ -1,0 +1,24 @@
+{
+    "officers": [
+        {"id": "S0060", "name": "Muasan"},
+        {"id": "S0061", "name": "Sudarsini"},
+        {"id": "S0062", "name": "Hendra K"},
+        {"id": "S0063", "name": "A.Zaenudin"},
+        {"id": "S0064", "name": "Sunarto"},
+        {"id": "S0065", "name": "Bobon Zubaedi"},
+        {"id": "S0066", "name": "Fikri Rahmadi"},
+        {"id": "S0067", "name": "Abas Lesmana"},
+        {"id": "S0068", "name": "Margaretha Siburian"},
+        {"id": "S0069", "name": "Ema DL"},
+        {"id": "S0070", "name": "Irpan Deriansyah"},
+        {"id": "S0071", "name": "Aulia Kamal Syah"},
+        {"id": "S0072", "name": "Viona Seftari"},
+        {"id": "S0073", "name": "Agustina Hapsari"},
+        {"id": "S0074", "name": "Chairul Anwar"},
+        {"id": "S0075", "name": "Cecep Sujana"},
+        {"id": "S0076", "name": "Neneng Anggi"},
+        {"id": "S0077", "name": "Arip H"},
+        {"id": "S0078", "name": "Aditya"},
+        {"id": "S0079", "name": "Abdullah Sohibil Anwar"}
+    ]
+}
