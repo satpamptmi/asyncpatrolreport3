@@ -19,6 +19,12 @@
         {"id": "S0076", "name": "Wawan K "},
         {"id": "S0077", "name": "Yogi DH"},
         {"id": "S0078", "name": "Yogi S"},
-        {"id": "S0079", "name": "Yunita Zahara"}
+        {"id": "S0079", "name": "Yunita Zahara"},
+	    {"id": "S0081", "name": "Asep M"},
+ 	    {"id": "S0082", "name": "Febrian Permana"},
+ 	    {"id": "S0083", "name": "Hariyanto"},
+ 	    {"id": "S0084", "name": "M. Salman"},
+ 	    {"id": "S0085", "name": "Sukandi"},
+ 	    {"id": "S0086", "name": "Yayah"}
     ]
 }
